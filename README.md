@@ -1,0 +1,11 @@
+Power Glass refers to a type of glass that is designed to generate electricity while still allowing light to pass through, effectively combining the functions of a solar panel and a window. It's also known as "Solar Windows" or "Photovoltaic Glass".
+
+Here are some key points about Power Glass:
+
+1. Generates electricity: Power Glass contains built-in photovoltaic cells that convert sunlight into electricity.
+2. Transparent: The glass allows light to pass through, making it suitable for windows and other applications where transparency is important.
+3. Energy-efficient: Power Glass can reduce energy consumption by generating electricity on-site, reducing reliance on traditional power sources.
+4. Versatile: Can be used for various applications, including windows, facades, and even mobile devices.
+5. Aesthetically pleasing: Power Glass has a sleek, modern design that can enhance the appearance of buildings and devices.
+
+Please go ahead and ask your questions about Power Glass!
